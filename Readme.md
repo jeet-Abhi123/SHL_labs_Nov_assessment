@@ -5,7 +5,7 @@
 
 All the information regarding models and methodology implemented are present inside the notebook. 
 
-# Final Model Performance (on validation set)
+### Final Model Performance (on validation set)
 | Metric	 | Value |
 | :------- | :------: | 
 | MSE | 0.214✅ | 
